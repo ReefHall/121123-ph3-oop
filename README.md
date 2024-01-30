@@ -2,10 +2,6 @@
 
 ## Learning Goals
 
-- Importing modules
-
-- The `python3 -i filename` command
-
 - Object Oriented Programming
 
 - Benefits and Principles of OOP Design
