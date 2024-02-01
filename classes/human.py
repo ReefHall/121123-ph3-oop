@@ -33,4 +33,3 @@ class Human:
     @age.setter # SETTER #
     def age(self, new_age):
         raise TypeError("Quit lying about your age!")
-        #just a test
